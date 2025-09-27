@@ -57,14 +57,8 @@ BibTeX:
   author  = {T. M. Carrijo},
   title   = {Aproximação uniforme de e^t por funções afins: versão clássica e versão híbrida (Dürr–Høyer via Qiskit)},
   year    = {2025},
-  url     = {https://github.com/SEU_USUARIO/SEU_REPO},
+  url     = {https://github.com//tmureebe/semi-infnite_quantum},
   version = {v0.1.0},
   note    = {Python; Qiskit; arquivos principais: rcp_hr_plsi_classico.py, principal_quantico.py, dh_oracle.py, qiskit_backend_dh.py}
 }
-
-Observações:
-1) Substitua SEU_USUARIO/SEU_REPO pela URL real do GitHub após publicar.
-2) Se criar uma tag de versão (por exemplo, v0.1.0), mantenha o mesmo valor no campo version.
-3) Se você tiver DOI (por exemplo, pela integração do Zenodo com o GitHub), acrescente o campo doi ao BibTeX:
-   doi = {10.5281/zenodo.xxxxxxx}
 EOF

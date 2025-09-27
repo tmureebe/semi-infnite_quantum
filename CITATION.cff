@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite como abaixo."
+title: "Aproximação uniforme de e^t por funções afins: clássico e híbrido (Dürr–Høyer via Qiskit)"
+authors:
+  - family-names: Carrijo
+    given-names: Thiago
+version: "0.1.0"
+date-released: 2025-09-27
+license: MIT
+
