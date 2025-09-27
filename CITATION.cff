@@ -1,10 +1,14 @@
 cff-version: 1.2.0
 message: "Se você usar este software, por favor cite como abaixo."
 title: "Aproximação uniforme de e^t por funções afins: clássico e híbrido (Dürr–Høyer via Qiskit)"
+type: software
 authors:
   - family-names: Carrijo
     given-names: Thiago
+    orcid: "https://orcid.org/0000-0003-2724-5852"
+repository-code: "https://github.com/tmureebe/semi-infinite_quantum"    
 version: "0.1.0"
+doi: 10.5281/zenodo.17216602
 date-released: 2025-09-27
 license: MIT
 

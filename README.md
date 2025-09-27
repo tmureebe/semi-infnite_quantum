@@ -60,5 +60,6 @@ BibTeX:
   url     = {https://github.com//tmureebe/semi-infnite_quantum},
   version = {v0.1.0},
   note    = {Python; Qiskit; arquivos principais: rcp_hr_plsi_classico.py, principal_quantico.py, dh_oracle.py, qiskit_backend_dh.py}
+  doi     = {10.5281/zenodo.17216602}
 }
 EOF
